@@ -1,5 +1,5 @@
 body {
-	background-color: #FFFF59;
+	background-color: lightyellow;
 }
 .page {
 	margin-bottom: 53px;
@@ -75,7 +75,7 @@ h1 {
 
 #output {
 	margin-top: 10px;
-	height: 400px;
+	height: 500px;
 	width: 200px;
 	background-color: #CFCF48;
 	margin-left: auto;
